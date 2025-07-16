@@ -1,0 +1,11 @@
+
+    .react-stars-0040910628081516576:before {
+      position: absolute;
+      overflow: hidden;
+      display: block;
+      z-index: 1;
+      top: 0; left: 0;
+      width: 50%;
+      content: attr(data-forhalf);
+      color: #ffd700;
+  }
